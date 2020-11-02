@@ -12,7 +12,7 @@ body{
 .cake{
     position: absolute;
     width: 300px;
-    bottom: 0;
+    bottom: 40px;
     left: 0;
 }
 
@@ -22,6 +22,15 @@ img{
 
 .birthday{
     width: 60%;
+}
+
+.footer{
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    max-width: 800px;
+    width: 100%;
+    font-size: 14px;
 }
 
 .glitch{
